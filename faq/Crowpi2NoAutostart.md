@@ -7,5 +7,5 @@ Remove the **1.desktop** file from the ***~/pi/.config/autostart*** folder.
 
 <br>
 
-[**<< BACK to FAQs**](../TOC-FAQ.md#frequently-asked-questions)
+[**<< BACK to FAQs**](./TOC-FAQ.md#frequently-asked-questions)
 
