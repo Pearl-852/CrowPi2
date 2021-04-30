@@ -30,6 +30,11 @@ Known issues that have been found are being listed [HERE](./known_issues/TOC-KI.
 
 <br>
 
+# Forums
+Our official [forum](https://forum.elecrow.com) is now online, post your technical issues there and our technical support personnel will  assist you as soon as possible.  
+
+<br>
+
 # Caution
 Do not use any power bank and the DC-12V power port to power the CrowPi2 at the same time. It will damage the power bank battery and may even pose potential safety risks.  
 
@@ -68,7 +73,7 @@ Do not use any power bank and the DC-12V power port to power the CrowPi2 at the 
 | -------------------| ------------------------------|
 | Joystick sensor    | SPI1;y-axis:0;x-axis:1        |
 | Button matrix      | SPI1;4                        |
-| RFID-RC522         | SPIO                          |
+| RFID-RC522         | SPI0                          |
 
 ### [I2C](https://pinout.xyz/pinout/i2c) Modules:
 | Module             | I2C address                   |
