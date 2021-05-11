@@ -7,13 +7,13 @@ Edit the **rc.local** file from the ***/etc*** directory.
 ```
 omxplayer /usr/share/elecrow/video/boot_video.mp4 &
 ```
-4. Add a **#** at the beginning to comment out the command as shown below,
+4. Add a '**#**' at the beginning to comment out the command as shown below,
 ```
 #omxplayer /usr/share/elecrow/video/boot_video.mp4 &
 ```
-5. Press **Ctrl**+**X**, **Y** and then **Enter** to save the changes.
-6. From the next system bootup, the Crowpi2 Boot Video will not be played.
-***Note:** If you change your mind later, just repeat the instructions above and delete the **#** added in step 4.*  
+5. Press **Ctrl**+**X**, **Y** and then **Enter** to save the changes.  
+6. From the next system bootup, the Crowpi2 Boot Video will not be played.  
+***Note:** If you change your mind later, just repeat the instructions above and delete the* *'**#**' added in step 4.*  
 
 <br>
 
