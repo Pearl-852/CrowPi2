@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+1. [How to flash a new CrowPi2 system image?](./FlashCustomImage.md#how-to-flash-a-new-crowpi2-system-image)  
 1. [How to backup the system SD card?](./BackupSDCard.md#how-to-backup-the-system-sd-card)  
 1. [How to expand the Raspberry Pi filesystem?](./ExpandFS.md#how-to-expand-the-raspberry-pi-filesystem)  
 1. [Can I run different OS on CrowPi2 (ex. Raspberry Pi OS, RetroPie, LibreELEC, Ubuntu, etc.)?](./FlashOtherImage.md#can-i-run-different-os-on-crowpi2-ex-raspberry-pi-os-retropie-libreelec-ubuntu-etc)  
