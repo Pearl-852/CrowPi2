@@ -16,6 +16,7 @@
 1. [How to adjust the font size of the Scratch Desktop interface?](./ScratchFontSize.md#how-to-adjust-the-font-size-of-the-scratch-desktop-interface)  
 1. [How to enable Pixel Doubling for a high resolution monitor?](./PixelDoubling.md#how-to-enable-pixel-doubling-for-a-high-resolution-monitor)  
 1. [How to quit the Crowpi2 software?](./Crowpi2Quit.md#how-to-quit-the-crowpi2-software)  
+1. [How to disable the Crowpi2 Boot Video at bootup?](./Crowpi2NoBootVideo.md#how-to-disable-the-crowpi2-boot-video-at-bootup)  
 1. [How to disable the Crowpi2 software from autostart at bootup?](./Crowpi2NoAutostart.md#how-to-disable-the-crowpi2-software-from-autostart-at-bootup)  
 1. [A pop-up warning message, "The software needs to run on CrowPi2, and turn the toggle switch to the A-side!" appears during boot up.](./Crowpi2Warning.md#a-pop-up-warning-message-the-software-needs-to-run-on-crowpi2-and-turn-the-toggle-switch-to-the-a-side-appears-during-boot-up)  
 1. [A "Low Voltage Warning" indication when powering through the microUSB Power Port.](./LowVoltageWarning.md#a-low-voltage-warning-indication-when-powering-through-the-microusb-power-port)  
