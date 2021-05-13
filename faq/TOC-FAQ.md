@@ -24,7 +24,7 @@
 1. [The Keyboard and/or Mouse does not work.](./KbMousePairing.md#the-keyboard-andor-mouse-does-not-work)  
 1. [Why do the (+) and (-) keys only work with screen brightness?](./PlusMinusKeys.md#why-do-the--and---keys-only-work-with-screen-brightness)  
 1. [What does the Function (Fn) key do?](./FnKey.md#what-does-the-function-fn-key-do)  
-1. [How to toggle the trackpad On/Off?](./TackpadToggle.md#how-to-toggle-the-trackpad-onoff)  
+1. [How to toggle the trackpad On/Off?](./TrackpadToggle.md#how-to-toggle-the-trackpad-onoff)  
 
 <br>
 
