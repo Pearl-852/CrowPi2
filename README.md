@@ -39,11 +39,6 @@ Known issues that have been found are being listed [HERE](./known_issues/TOC-KI.
 
 <br>
 
-# Forums
-Our official [forum](https://forum.elecrow.com) is now online, post your technical issues there and our technical support personnel will  assist you as soon as possible.  
-
-<br>
-
 # Caution
 Do not use any power bank and the DC-12V power port to power the CrowPi2 at the same time. It will damage the power bank battery and may even pose potential safety risks.  
 
