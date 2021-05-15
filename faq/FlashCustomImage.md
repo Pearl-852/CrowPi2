@@ -25,7 +25,7 @@ To write a new system SD card, follow the steps below
 12. After flashing has completed, click **CONTINUE** and close the **Raspberry Pi Imager** app.  
 ![imager-custom-10](../images/imager-custom-10.png)  
 13. Congratulation! Your new ***CrowPi2 SD Card*** is now ready for use in the CrowPi2. Shutdown the system, then unplug the power and replace the system SD Card with the new ***CrowPi2 SD Card***.  
-14. Finally, once the system has booted up, run the **Raspberry Pi Setup Wizard** to complete the initial system setup. (See this [link](../README.md#initial-setup) for instructions.)  
+14. Lastly, once the system has booted up, run the **Raspberry Pi Setup Wizard** to complete the initial system setup. (See this [link](../README.md#initial-setup) for instructions.)  
 
 <br>
 
