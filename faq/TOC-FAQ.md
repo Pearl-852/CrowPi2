@@ -26,6 +26,8 @@
 1. [What does the Function (Fn) key do?](./FnKey.md#what-does-the-function-fn-key-do)  
 1. [How to toggle the trackpad On/Off?](./TrackpadToggle.md#how-to-toggle-the-trackpad-onoff)  
 
+***Note:** If you cannot find your answer here, please visit our [forum](https://forum.elecrow.com/categories/Raspberry-Pi-CrowPi) and post your questions there.*  
+
 <br>
 
 [**<< BACK to Home Page**](../README.md#frequently-asked-questions)
